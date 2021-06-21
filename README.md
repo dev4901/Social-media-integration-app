@@ -1,5 +1,4 @@
-# task_5
-
+# Social-Media integration app for The Sparks Foundation under GRIP-June21
 A new Flutter project.
 
 ## Getting Started
